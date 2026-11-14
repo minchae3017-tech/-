@@ -1,0 +1,6 @@
+{
+  "name": "티타임 (Tea Time)",
+  "description": "일상 속 여유를 선물하는 대구 공평로 홍차 전문 카페 티타임 안내 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
